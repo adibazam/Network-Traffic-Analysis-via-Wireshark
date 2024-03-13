@@ -25,8 +25,9 @@ Task 1: Filter the data for traffic associated with a specific IP address of "14
 <img src="https://i.gyazo.com/fe6e5de4595995599b69f308bbd0579c.png" height="80%" width="80%" alt="tcpdump"/>  
 <br />
 <br />
-Security Incident Report  <br/>
-<img src="https://i.gyazo.com/e4918588cdc89bc8b0708b5233855b80.png" height="80%" width="80%" alt="tcpdump"/>
-<img src="https://i.gyazo.com/4b8687ef29d1ac775f194c52b339c0fc.png" height="80%" width="80%" alt="tcpdump"/>
+<p align="center">  
+Task 2. Apply a basic Wireshark filter and inspect a packet for specific information <br/>
+<img src="https://i.gyazo.com/cd3faa84fbcc7da2773f2e3c1ed5c6a0.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/45586ac4bf9fdb7db16b7bfd0145acd0.png" height="80%" width="80%" alt="tcpdump"/>
 <br />
 <br />
