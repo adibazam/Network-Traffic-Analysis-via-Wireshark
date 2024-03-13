@@ -22,6 +22,7 @@ I must filter the data in order to:
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. <br/>
 <img src="https://i.gyazo.com/e3fe33d87d17b64ce5286b496bbeaa69.png" height="80%" width="80%" alt="tcpdump"/>
 <img src="https://i.gyazo.com/23034aed27ddef04e0c2602bef6bf1b3.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/fe6e5de4595995599b69f308bbd0579c.png" height="80%" width="80%" alt="tcpdump"/>  
 <br />
 <br />
 Security Incident Report  <br/>
